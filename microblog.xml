@@ -3,7 +3,7 @@
 	xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
 <channel>
-	<title>hat (blog)e-6</title>
+	<title>("hat")e-6</title>
 	<link>https://22ru.github.io/microhat/</link>
 	<description>14 | your/ours | INSY | Triggers: dolls / Bridge on the River Kwai | SachikoP</description>
 	<webMaster>Rawhide hat</webMaster>
@@ -11,7 +11,7 @@
 	<link rel="shortcut icon" href="https://22ru.github.io/microhat/img/pfp.jpg" />
 	<image>
 		<url>https://22ru.github.io/microhat/img/pfp.jpg</url>
-		<title>hat (blog)e-6</title>
+		<title>("hat")e-6</title>
 		<link>https://22ru.github.io/microhat/img/pfp.jpg</link>
 	</image>
 
