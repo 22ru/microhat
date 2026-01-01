@@ -5,7 +5,7 @@
 <channel>
 	<title>("hat")e-6</title>
 	<link>https://www.hat.coffee</link>
-	<description>14 | your/ours | INSY | Triggers: dolls / Bridge on the River Kwai | SachikoP</description>
+	<description>14 | your/ours | INSY | Michelangelo Fandom | Cupid x Psyche OTP | SachikoP</description>
 	<webMaster>Rawhide hat</webMaster>
 	<generator>@hatsune_deals</generator>
 	<link rel="shortcut icon" href="https://22ru.github.io/microhat/img/pfp.jpg" />
@@ -15,7 +15,15 @@
 		<link>https://22ru.github.io/microhat/img/pfp.jpg</link>
 	</image>
 
-		<item>
+	<item>
+		<guid isPermaLink="false">222</guid>
+		<title>New journal day! To my surprise, I was given a Midori 3 Year today!</title>
+		<pubDate>Thu, 01 Jan 2026 06:12:27 GMT</pubDate>
+		<link>https://22ru.github.io/microhat/#222</link>
+		<description><img loading="lazy" src="https://22ru.github.io/nekocomiccon/img/IMG_9605.jpg" /></description>
+	</item>
+
+	<item>
 		<guid isPermaLink="false">221</guid>
 		<title>It would be a terrible idea to buy a SD13 Maki Tsuyoshi and turn him into David Sylvian. Absolutely awful. Don't even think about it.</title>
 		<pubDate>Sun, 30 Nov 2025 04:29:34 GMT</pubDate>
